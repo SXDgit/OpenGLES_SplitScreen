@@ -15,6 +15,17 @@
 		EAD3266322C6698300F5EFD2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EAD3266222C6698300F5EFD2 /* main.m */; };
 		EAD3266D22C6698300F5EFD2 /* OpenGLES_____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = EAD3266C22C6698300F5EFD2 /* OpenGLES_____Tests.m */; };
 		EAD3267822C6698300F5EFD2 /* OpenGLES_____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EAD3267722C6698300F5EFD2 /* OpenGLES_____UITests.m */; };
+		EAD3268B22C66A0400F5EFD2 /* FilterBarCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EAD3268A22C66A0400F5EFD2 /* FilterBarCell.m */; };
+		EAD3268E22C66A1F00F5EFD2 /* FilterBar.m in Sources */ = {isa = PBXBuildFile; fileRef = EAD3268D22C66A1F00F5EFD2 /* FilterBar.m */; };
+		EAD3269622C66AF200F5EFD2 /* SplitScreen_2.vsh in Resources */ = {isa = PBXBuildFile; fileRef = EAD3269422C66AF200F5EFD2 /* SplitScreen_2.vsh */; };
+		EAD3269722C66AF200F5EFD2 /* SplitScreen_2.fsh in Resources */ = {isa = PBXBuildFile; fileRef = EAD3269522C66AF200F5EFD2 /* SplitScreen_2.fsh */; };
+		EAD3269A22C66B0000F5EFD2 /* SplitScreen_4.vsh in Resources */ = {isa = PBXBuildFile; fileRef = EAD3269822C66B0000F5EFD2 /* SplitScreen_4.vsh */; };
+		EAD3269B22C66B0000F5EFD2 /* SplitScreen_4.fsh in Resources */ = {isa = PBXBuildFile; fileRef = EAD3269922C66B0000F5EFD2 /* SplitScreen_4.fsh */; };
+		EAD3269E22C66B0900F5EFD2 /* SplitScreen_9.fsh in Resources */ = {isa = PBXBuildFile; fileRef = EAD3269C22C66B0900F5EFD2 /* SplitScreen_9.fsh */; };
+		EAD3269F22C66B0900F5EFD2 /* SplitScreen_9.vsh in Resources */ = {isa = PBXBuildFile; fileRef = EAD3269D22C66B0900F5EFD2 /* SplitScreen_9.vsh */; };
+		EAD326A122C66C9C00F5EFD2 /* image01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EAD326A022C66C9C00F5EFD2 /* image01.jpg */; };
+		EAD326A422C66DF200F5EFD2 /* Normal.fsh in Resources */ = {isa = PBXBuildFile; fileRef = EAD326A222C66DF100F5EFD2 /* Normal.fsh */; };
+		EAD326A522C66DF200F5EFD2 /* Normal.vsh in Resources */ = {isa = PBXBuildFile; fileRef = EAD326A322C66DF200F5EFD2 /* Normal.vsh */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +62,19 @@
 		EAD3267322C6698300F5EFD2 /* OpenGLES_分屏滤镜UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OpenGLES_分屏滤镜UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAD3267722C6698300F5EFD2 /* OpenGLES_____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "OpenGLES_____UITests.m"; sourceTree = "<group>"; };
 		EAD3267922C6698300F5EFD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EAD3268922C66A0400F5EFD2 /* FilterBarCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FilterBarCell.h; sourceTree = "<group>"; };
+		EAD3268A22C66A0400F5EFD2 /* FilterBarCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FilterBarCell.m; sourceTree = "<group>"; };
+		EAD3268C22C66A1F00F5EFD2 /* FilterBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FilterBar.h; sourceTree = "<group>"; };
+		EAD3268D22C66A1F00F5EFD2 /* FilterBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FilterBar.m; sourceTree = "<group>"; };
+		EAD3269422C66AF200F5EFD2 /* SplitScreen_2.vsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = SplitScreen_2.vsh; sourceTree = "<group>"; };
+		EAD3269522C66AF200F5EFD2 /* SplitScreen_2.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = SplitScreen_2.fsh; sourceTree = "<group>"; };
+		EAD3269822C66B0000F5EFD2 /* SplitScreen_4.vsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = SplitScreen_4.vsh; sourceTree = "<group>"; };
+		EAD3269922C66B0000F5EFD2 /* SplitScreen_4.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = SplitScreen_4.fsh; sourceTree = "<group>"; };
+		EAD3269C22C66B0900F5EFD2 /* SplitScreen_9.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = SplitScreen_9.fsh; sourceTree = "<group>"; };
+		EAD3269D22C66B0900F5EFD2 /* SplitScreen_9.vsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = SplitScreen_9.vsh; sourceTree = "<group>"; };
+		EAD326A022C66C9C00F5EFD2 /* image01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image01.jpg; sourceTree = "<group>"; };
+		EAD326A222C66DF100F5EFD2 /* Normal.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = Normal.fsh; sourceTree = "<group>"; };
+		EAD326A322C66DF200F5EFD2 /* Normal.vsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = Normal.vsh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +125,13 @@
 		EAD3265222C6697F00F5EFD2 /* OpenGLES_分屏滤镜 */ = {
 			isa = PBXGroup;
 			children = (
+				EAD3268F22C66AA300F5EFD2 /* Filter */,
+				EAD3268522C669B300F5EFD2 /* Tool */,
 				EAD3265322C6697F00F5EFD2 /* AppDelegate.h */,
 				EAD3265422C6697F00F5EFD2 /* AppDelegate.m */,
 				EAD3265622C6697F00F5EFD2 /* ViewController.h */,
 				EAD3265722C6697F00F5EFD2 /* ViewController.m */,
+				EAD326A022C66C9C00F5EFD2 /* image01.jpg */,
 				EAD3265922C6697F00F5EFD2 /* Main.storyboard */,
 				EAD3265C22C6698300F5EFD2 /* Assets.xcassets */,
 				EAD3265E22C6698300F5EFD2 /* LaunchScreen.storyboard */,
@@ -130,6 +157,64 @@
 				EAD3267922C6698300F5EFD2 /* Info.plist */,
 			);
 			path = "OpenGLES_分屏滤镜UITests";
+			sourceTree = "<group>";
+		};
+		EAD3268522C669B300F5EFD2 /* Tool */ = {
+			isa = PBXGroup;
+			children = (
+				EAD3268C22C66A1F00F5EFD2 /* FilterBar.h */,
+				EAD3268D22C66A1F00F5EFD2 /* FilterBar.m */,
+				EAD3268922C66A0400F5EFD2 /* FilterBarCell.h */,
+				EAD3268A22C66A0400F5EFD2 /* FilterBarCell.m */,
+			);
+			path = Tool;
+			sourceTree = "<group>";
+		};
+		EAD3268F22C66AA300F5EFD2 /* Filter */ = {
+			isa = PBXGroup;
+			children = (
+				EAD3269322C66AD300F5EFD2 /* SplitScreen_9 */,
+				EAD3269222C66ACD00F5EFD2 /* SplitScreen_4 */,
+				EAD3269122C66ABB00F5EFD2 /* SplitScreen_2 */,
+				EAD3269022C66AB000F5EFD2 /* Normal */,
+			);
+			path = Filter;
+			sourceTree = "<group>";
+		};
+		EAD3269022C66AB000F5EFD2 /* Normal */ = {
+			isa = PBXGroup;
+			children = (
+				EAD326A222C66DF100F5EFD2 /* Normal.fsh */,
+				EAD326A322C66DF200F5EFD2 /* Normal.vsh */,
+			);
+			path = Normal;
+			sourceTree = "<group>";
+		};
+		EAD3269122C66ABB00F5EFD2 /* SplitScreen_2 */ = {
+			isa = PBXGroup;
+			children = (
+				EAD3269522C66AF200F5EFD2 /* SplitScreen_2.fsh */,
+				EAD3269422C66AF200F5EFD2 /* SplitScreen_2.vsh */,
+			);
+			path = SplitScreen_2;
+			sourceTree = "<group>";
+		};
+		EAD3269222C66ACD00F5EFD2 /* SplitScreen_4 */ = {
+			isa = PBXGroup;
+			children = (
+				EAD3269922C66B0000F5EFD2 /* SplitScreen_4.fsh */,
+				EAD3269822C66B0000F5EFD2 /* SplitScreen_4.vsh */,
+			);
+			path = SplitScreen_4;
+			sourceTree = "<group>";
+		};
+		EAD3269322C66AD300F5EFD2 /* SplitScreen_9 */ = {
+			isa = PBXGroup;
+			children = (
+				EAD3269C22C66B0900F5EFD2 /* SplitScreen_9.fsh */,
+				EAD3269D22C66B0900F5EFD2 /* SplitScreen_9.vsh */,
+			);
+			path = SplitScreen_9;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -236,8 +321,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				EAD3266022C6698300F5EFD2 /* LaunchScreen.storyboard in Resources */,
+				EAD3269A22C66B0000F5EFD2 /* SplitScreen_4.vsh in Resources */,
+				EAD326A522C66DF200F5EFD2 /* Normal.vsh in Resources */,
+				EAD326A422C66DF200F5EFD2 /* Normal.fsh in Resources */,
+				EAD3269722C66AF200F5EFD2 /* SplitScreen_2.fsh in Resources */,
+				EAD326A122C66C9C00F5EFD2 /* image01.jpg in Resources */,
+				EAD3269622C66AF200F5EFD2 /* SplitScreen_2.vsh in Resources */,
+				EAD3269E22C66B0900F5EFD2 /* SplitScreen_9.fsh in Resources */,
 				EAD3265D22C6698300F5EFD2 /* Assets.xcassets in Resources */,
 				EAD3265B22C6697F00F5EFD2 /* Main.storyboard in Resources */,
+				EAD3269F22C66B0900F5EFD2 /* SplitScreen_9.vsh in Resources */,
+				EAD3269B22C66B0000F5EFD2 /* SplitScreen_4.fsh in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +358,8 @@
 			files = (
 				EAD3265822C6697F00F5EFD2 /* ViewController.m in Sources */,
 				EAD3266322C6698300F5EFD2 /* main.m in Sources */,
+				EAD3268B22C66A0400F5EFD2 /* FilterBarCell.m in Sources */,
+				EAD3268E22C66A1F00F5EFD2 /* FilterBar.m in Sources */,
 				EAD3265522C6697F00F5EFD2 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -437,6 +533,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "OpenGLES_分屏滤镜/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -453,6 +550,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "OpenGLES_分屏滤镜/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
